@@ -12,7 +12,7 @@ Due to strict time constraints, I aimed to create a practical, functioning solut
 4. **Development Environment**: Although I started on VS Code, connectivity issues with Neo4j led me to migrate to Google Colab, where I used tunneling to run the Streamlit app seamlessly.
 
 ## Project Structure
-
+I have created a flowchart to illustrate the flow of calls in the application. Please refer to 'Flow_Chart.png' for details.
 Here's an outline of the system's operation, including how Langchain and Neo4j interact to produce personalized trip plans:
 
 1. **User Inputs via Streamlit**: The user enters basic trip details like location, budget, and preferred activities.
