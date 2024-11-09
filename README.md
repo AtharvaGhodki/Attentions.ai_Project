@@ -30,5 +30,6 @@ Here's an outline of the system's operation, including how Langchain and Neo4j i
 
 ### How to Run
 1. **Run the main.ipynb**: Run all the cells in this notebook. Then, follow the tunnel link and enter the provided IP address to launch the Streamlit app
+2. **Provide Your Relevant API Keys**: Ensure you have entered the necessary API keys and credentials, including the Weather API key, News API key, Neo4j URL, Neo4j username, Neo4j password, and GROQ API key
 
 ### I've also included a Practice and Exploration file, which contains code related to my learning process and experimentation. Since working with Neo4j and graph databases was new to me, this file documents my approach and steps taken to understand and apply these technologies
